@@ -63,8 +63,8 @@ li a:hover{
 
 .appstore{
     
-    width: 30%;
-    height: 20%;
+    width: 25%;
+    height: 15%;
 }
 
 .appDown{
@@ -72,5 +72,46 @@ li a:hover{
    justify-content: center;
 }
 
+.Synchronize{
+    text-align: center;
+}
 
+.Synchronize_1 {
+    text-align: center;
+}
 
+.image_6 img {
+align-items: center;
+}
+
+.features{
+    text-align: center;
+}
+
+.Equipment {
+    text-align: center;
+}
+.img-fluid-1 {
+    width: 100%;
+}
+
+.img-fluid-2{
+    margin: 20px;
+    padding: 50px;
+   align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+/* footer css */
+
+.footer {
+    background-color: #055a4a;
+    border-top: 1px solid #d5d9e0;
+    padding-top: 59px;
+    padding-bottom: 29px;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #8064A2;
+}
